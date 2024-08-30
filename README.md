@@ -23,22 +23,20 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='GIFwalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Kap  
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+I definetly had some challenges initially, as my experience with web development was from years back, so I had to watch some videos to shake off rust. Also, there were a lot of errors with syntax and spelling, so I tried my best to look over and fix these things, but alot of the time, it was hard to identify. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Jachin Choi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
